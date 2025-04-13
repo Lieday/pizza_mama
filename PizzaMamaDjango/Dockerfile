@@ -45,7 +45,7 @@ RUN pip install -r /tmp/requirements.txt
 
 # database isn't available during build
 # run any other commands that do not need the database
-# such as:
+# such as:    1
 # RUN python manage.py collectstatic --noinput
 
 # set the Django default project name
